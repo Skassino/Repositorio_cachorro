@@ -16,6 +16,17 @@ const styles = StyleSheet.create({
         
     },
 
+    texto:{
+        fontSize: 40,
+    },
+    imagem: {
+        width: 300, 
+        height: 300, 
+        marginBottom: 20, 
+        borderRadius: 10,
+        alignItems: "center"
+    }
+
 
 
 })
